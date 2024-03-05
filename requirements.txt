@@ -1,0 +1,3 @@
+PyMuPDF
+csv23
+ollama
